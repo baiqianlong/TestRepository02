@@ -1,0 +1,4 @@
+﻿  001MessagBox相关函数.cpp
+c:\users\baixiaolong\desktop\project\001windows32项目\win32messagebox\001messagbox相关函数.cpp(13): warning C4129: “D”: 不可识别的字符转义序列
+  Win32MessageBox.vcxproj -> C:\Users\baixiaolong\Desktop\Project\001windows32项目\Debug\Win32MessageBox.exe
+  Win32MessageBox.vcxproj -> C:\Users\baixiaolong\Desktop\Project\001windows32项目\Debug\Win32MessageBox.pdb (Full PDB)
