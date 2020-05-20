@@ -1,7 +1,0 @@
-﻿  window消息和消息循环.cpp
-window消息和消息循环.cpp(141): error C2664: “UINT GetDlgItemTextW(HWND,int,LPWSTR,int)”: 无法将参数 3 从“char [128]”转换为“LPWSTR”
-  window消息和消息循环.cpp(141): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
-window消息和消息循环.cpp(142): error C2664: “UINT GetDlgItemTextW(HWND,int,LPWSTR,int)”: 无法将参数 3 从“char [128]”转换为“LPWSTR”
-  window消息和消息循环.cpp(142): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
-window消息和消息循环.cpp(146): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“LPCSTR”转换为“LPCWSTR”
-  window消息和消息循环.cpp(146): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换

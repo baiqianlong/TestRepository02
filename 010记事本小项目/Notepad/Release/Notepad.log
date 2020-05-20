@@ -1,9 +1,0 @@
-﻿  NotepadDlg.cpp
-NotepadDlg.cpp(218): warning C4101: “buffer”: 未引用的局部变量
-  正在生成代码
-  2 of 275 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
-  已完成代码的生成
-  Notepad.vcxproj -> C:\Users\baixiaolong\Desktop\Project\010记事本小项目\Release\Notepad.exe
-  Notepad.vcxproj -> C:\Users\baixiaolong\Desktop\Project\010记事本小项目\Release\Notepad.pdb (Full PDB)
